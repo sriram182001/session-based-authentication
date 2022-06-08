@@ -1,0 +1,15 @@
+.btn{
+    background-color: black;
+    width: 80px;
+    height: 20px;
+    color: azure;
+    float: right;
+    
+}
+.Mspc{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+p{
+    text-align: center;
+}
